@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="ai_travel_assistant",
+    name="ai_travel_planner",
     version="0.1.0",
     description="Agentic AI Travel Agent helps you plan smart, budget-friendly trips by using real-time data on weather, events, hotels, transport, and more — all powered by AI.",
     author="Yash",
