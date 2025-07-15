@@ -8,3 +8,4 @@ __pycache__/
 .vscode/
 .travelai
 .DS_Store
+ai_travel_planner.egg-info
